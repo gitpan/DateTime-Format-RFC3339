@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               DateTime-Format-RFC3339
-version:            v1.0.4
+version:            v1.0.5
 abstract:           Parse and format RFC3339 datetime strings
 author:
     - Eric Brine <ikegami@adaelis.com>
-license:            unknown
+license:            CC0_1_0
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
